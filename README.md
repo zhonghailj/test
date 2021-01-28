@@ -30,6 +30,10 @@
 ### 开发商偷工减料石锤
 为节约成本，少放钢筋，严重印象建筑安全。 为此收到数十张主管部门整改罚单。
 
+  * http://www.bjchp.gov.cn/cpqzf/xycp/sgszl/cpqxzcf/zjw/4904275/index.html
+  * http://www.bjchp.gov.cn/cpqzf/xycp/sgszl/cpqxzcf/zjw/4904275/index.html
+  * ...
+
 ### 工地管理混乱，作业不规范，发生脚手架跌落工人死亡等严重安全事故
 
 
