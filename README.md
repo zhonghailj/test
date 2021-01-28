@@ -28,9 +28,12 @@
 中海丽春湖为例， 有客户进案场发回的照片，地基沉降都导致露面固定位置开裂，裂口宽达10 mm。
 
 一期15号楼南段户为例，因为地面沉降，导致盖楼西侧楼板裂开足足10 mm，当然这些房主是不知道的。
-二楼全貌
+
+ * 二楼全貌
 <img src="https://zhonghailj.github.io/test/3941611845572_.pic.jpg" />
-三楼全貌
+
+ * 三楼全貌
 <img src="https://zhonghailj.github.io/test/3961611845574_.pic.jpg" />
-三楼特写
+
+ * 三楼特写
 <img src="https://zhonghailj.github.io/test/3951611845573_.pic.jpg" />
