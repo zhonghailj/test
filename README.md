@@ -39,11 +39,11 @@
 
 一期15号楼南段户为例，因为地面沉降，导致盖楼西侧楼板 *裂开足足10 mm* ，当然这些房主是不知道的。
 
- * 二楼全貌
+ * 二楼沉降裂缝全貌
 <img src="https://zhonghailj.github.io/test/3941611845572_.pic.jpg" />
 
- * 三楼全貌
+ * 三楼沉降裂缝全貌
 <img src="https://zhonghailj.github.io/test/3961611845574_.pic.jpg" />
 
- * 三楼特写
+ * 三楼沉降裂缝特写
 <img src="https://zhonghailj.github.io/test/3951611845573_.pic.jpg" />
